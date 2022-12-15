@@ -1,0 +1,108 @@
+-- Odonto's App Perfil --
+
+/* Menu_dashboard */
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Nome Completo */
+box-sizing: border-box;
+position: absolute;
+width: 378px;
+height: 74px;
+left: -1px;
+top: 260px;
+background: #FFFFFF;
+border: 1px solid #EEEEEE;
+
+/* Endereço */
+box-sizing: border-box;
+position: absolute;
+width: 378px;
+height: 74px;
+left: -1px;
+top: 333px;
+background: #FFFFFF;
+border: 1px solid #EEEEEE;
+
+/* Data de Nascimento */
+box-sizing: border-box;
+position: absolute;
+width: 378px;
+height: 74px;
+left: -1px;
+top: 406px;
+background: #FFFFFF;
+border: 1px solid #EEEEEE;
+
+/* Email */
+box-sizing: border-box;
+position: absolute;
+width: 378px;
+height: 74px;
+left: -1px;
+top: 479px;
+background: #FFFFFF;
+border: 1px solid #EEEEEE;
+
+/* Contato */
+box-sizing: border-box;
+position: absolute;
+width: 378px;
+height: 74px;
+left: -1px;
+top: 552px;
+background: #FFFFFF;
+border: 1px solid #EEEEEE;
+
+-- Odonto's App Dashboard --
+
+/* Header */
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+position: absolute;
+width: 316.7px;
+height: 36px;
+left: 30px;
+top: 24px;
+
+/* Menu_Master */
+position: absolute;
+width: 375px;
+height: 90px;
+left: 0px;
+top: 721px;
+
+/* Menu_dashboard */
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+-- Odonto's App Calendar --
+
+/* Menu_calendar */
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+-- Odonto's App Pagamento --
+
+/* Menu_payments */
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
